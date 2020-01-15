@@ -4,7 +4,7 @@ using System.Collections;
  public class Pacer : MonoBehaviour
 {
 
- public float speed = 5.0f;
+ public float speed = 75.0f;
  private float zMax = 7.5f;private float zMin = -7.5f; //starting position
  private int direction = 1; //positive to start
 
